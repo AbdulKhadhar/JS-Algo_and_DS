@@ -1,0 +1,2 @@
+# JS-Practices
+Basic JavaScript 
