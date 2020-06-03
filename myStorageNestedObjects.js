@@ -1,4 +1,4 @@
-// Setup
+// Accessing Nested Objects
 var myStorage = {
   "car": {
     "inside": {
