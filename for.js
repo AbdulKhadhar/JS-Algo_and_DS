@@ -1,3 +1,4 @@
+// Iterate with JavaScript For Loops
 
 var myArray = [];
 
