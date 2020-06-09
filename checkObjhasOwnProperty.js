@@ -1,3 +1,4 @@
+// Testing Objects for Properties 
 function checkObj(obj, checkProp) {
 
  if(obj.hasOwnProperty(checkProp)) {
